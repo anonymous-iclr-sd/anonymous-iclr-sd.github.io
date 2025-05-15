@@ -1,1 +1,1 @@
-# Learning Neural Deformation Representation for 4D Dynamic Shape Generation
+# Anonymous Neurips 2025 Submission
